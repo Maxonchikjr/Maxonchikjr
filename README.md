@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Max 👋
 
-<!--
-**Maxonchikjr/Maxonchikjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Kotlin • Java • C++ • Python
 
-Here are some ideas to get you started:
+I'm a developer focused on building practical software and improving my
+skills through real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently working on
+- Android applications with Kotlin
+- Computer Vision and AI projects
+- C++ programming and algorithms
+- Personal projects focused on practical problem solving
+
+### 🛠️ Technologies & Tools
+Kotlin • Java • C++ • Python • Android • Git • GitHub • OpenCV • YOLO
+
